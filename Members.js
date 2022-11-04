@@ -16,6 +16,6 @@ const members = [
         name: 'Shannon Jackson',
         email: 'shannon@gmail.com',
         status: 'active'
-    },
+    }
 ];
 module.exports = members;
